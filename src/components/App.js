@@ -71,7 +71,7 @@ class App extends Component {
                     <Navbar>
                         <Navbar.Header>
                             <Navbar.Brand>
-                                Weather In Serbia
+                                Weather In Ukraine
                             </Navbar.Brand>
                         </Navbar.Header>
                     </Navbar>
