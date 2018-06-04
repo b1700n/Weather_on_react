@@ -27,9 +27,9 @@ export function cities(state = citiesArr, action) {
 }
 
 var citiesArr = [
-        { name: "Kharkov", zip: "62341" },
+        { name: "Kharkov", zip: "61000" },
         { name: "Kyiv", zip: "03134" },
-        { name: "Dnepr", zip: "49000" },
+        { name: "Dnepr", zip: "49005" },
 
 
         ]
